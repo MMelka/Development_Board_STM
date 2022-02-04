@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ESP_XTAL_P Pin=C57-2
+Removed Pin From Net: NetName=ESP_XTAL_P Pin=Y5-1
+Change Footprint: Footprint Not Found GP_6x1
+Change Component Comment : Designator=CN8 Old Comment=TFT dispaly connector New Comment=Listwa zaciskowa
+Added Pin To Net: NetName=ESP_XTAL_P Pin=C56-2
+Added Pin To Net: NetName=ESP_XTAL_N Pin=C57-2
+Added Pin To Net: NetName=ESP_XTAL_N Pin=Y5-1
+Added Pin To Net: NetName=ESP_XTAL_P Pin=Y5-3
