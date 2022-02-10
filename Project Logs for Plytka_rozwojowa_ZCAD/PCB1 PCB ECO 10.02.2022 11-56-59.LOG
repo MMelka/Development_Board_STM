@@ -1,0 +1,10 @@
+Change Footprint: Footprint Not Found GP_6x1
+Added Pin To Net: NetName=GND Pin=C63-2
+Added Member To Class: ClassName=Peryferia uzytkownika Member=Component D6 GREEN
+Added Member To Class: ClassName=Peryferia uzytkownika Member=Component D7 GREEN
+Added Room: Name=Mikrokontroler i podzespoly
+Added Room: Name=Modul komunikacji RS485
+Added Room: Name=Peryferia uzytkownika
+Added Room: Name=Uklad komunikacji WiFi
+Added Room: Name=Uklad programatora ST Link
+Added Room: Name=Uklad zasilania

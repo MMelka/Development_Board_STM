@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RX_PORT Pin=P6-3
+Removed Pin From Net: NetName=TX_PORT Pin=P6-4
+Removed Pin From Net: NetName=ESP_0RXD Pin=P6-5
+Removed Pin From Net: NetName=ESP_0TXD Pin=P6-6
+Change Footprint: Footprint Not Found GP_6x1
+Added Pin To Net: NetName=ESP_0RXD Pin=P6-3
+Added Pin To Net: NetName=ESP_0TXD Pin=P6-4
+Added Pin To Net: NetName=RX_PORT Pin=P6-5
+Added Pin To Net: NetName=TX_PORT Pin=P6-6

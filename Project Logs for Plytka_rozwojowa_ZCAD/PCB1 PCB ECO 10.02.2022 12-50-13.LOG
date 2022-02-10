@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=RESET NewDesignator=S_RST1
+Change component parameters: Designator = "CN21" ("CN21"); Footprint = "HDR1X6"; UniqueID = "\OUFNPQLK\ADTIXSCK" ("\OUFNPQLK\ADTIXSCK")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
