@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=EEPROM_2 Pin=CN20-1
+Removed Pin From Net: NetName=EEPROM_1 Pin=CN20-3
+Removed Pin From Net: NetName=EEPROM_0 Pin=CN20-5
+Removed Member From Class: ClassName=Peryferia u¿ytkownika Member=CN20
+Added Pin To Net: NetName=EEPROM_0 Pin=U5-1
+Added Pin To Net: NetName=EEPROM_1 Pin=U5-2
+Added Pin To Net: NetName=EEPROM_2 Pin=U5-3
