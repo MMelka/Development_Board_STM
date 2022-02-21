@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=AGND Pin=U6-12
+Change Component Footprint: Designator=C6 Old Footprint=C0805 New Footprint=C1206
+Change Component Designator: OldDesignator=BUZZER NewDesignator=BUZ1
+Change Component Designator: OldDesignator=DRV- NewDesignator=J18
+Change Component Designator: OldDesignator=EEPROM ID NewDesignator=CN19
+Change Component Designator: OldDesignator=EP- NewDesignator=J5
+Change Component Designator: OldDesignator=PA0 NewDesignator=J6
+Change Component Designator: OldDesignator=PA1 NewDesignator=J8
+Change Component Designator: OldDesignator=PA12 NewDesignator=J13
+Change Component Designator: OldDesignator=PA13 NewDesignator=J15
+Change Component Designator: OldDesignator=PA14 NewDesignator=J16
+Change Component Designator: OldDesignator=PA15 NewDesignator=J17
+Change Component Designator: OldDesignator=PB6 NewDesignator=J7
+Change Component Designator: OldDesignator=PB7 NewDesignator=J9
+Change Component Designator: OldDesignator=PC2 NewDesignator=J12
+Change Component Designator: OldDesignator=PC3 NewDesignator=J14
+Change Component Designator: OldDesignator=RESET NewDesignator=S_RST1
+Added Pin To Net: NetName=GND Pin=U6-12
+Added Member To Class: ClassName=Peryferia u¿ytkownika Member=Component CN10 CN_8x2
+Added Member To Class: ClassName=Uk³ad programatora ST Link Member=Component R20 0
